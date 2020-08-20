@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995931531723",
+    "firebase_url": "https://fir-addfetchdata-83785.firebaseio.com",
+    "project_id": "fir-addfetchdata-83785",
+    "storage_bucket": "fir-addfetchdata-83785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995931531723:android:a5bb792bba645d11c62e4e",
+        "android_client_info": {
+          "package_name": "com.stubborn.firebaseaddfetchdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995931531723-rodt1prfv1lg05ovjt1fj9o85kka85p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZPc9qHF_dMy-51V4TGvSamS9Qj3koxr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995931531723-rodt1prfv1lg05ovjt1fj9o85kka85p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
